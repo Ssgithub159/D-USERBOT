@@ -6,10 +6,10 @@ from dotenv import load_dotenv
 API_ID = int(6435225) #optional
 API_HASH = "" #optional
 
-SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(1234567890)
-MONGO_URL = "MONGO_URL"
-BOT_TOKEN = "BOT_TOKEN"
+SUDO_USERS = list(map(int, ("6063555621").split()))
+OWNER_ID = int(1331161476)
+MONGO_URL = "mongodb+srv://Danger:dangerbadmosh@danger2.kxpnfoe.mongodb.net/?retryWrites=true&w=majority&appName=DANGER2"
+BOT_TOKEN = "7051832270:AAFWNbcCg0EZirJnzsztIwXX7sqrit25Sp0"
 ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
